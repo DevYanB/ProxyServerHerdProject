@@ -1,7 +1,6 @@
 ### Notes
 -----
-This is a proxy server herd project done for CS131. It utilizes a flooding algorithm to self-update itself. You can run each server individually,
-or write a script to run them all at once. You can either use telnet or run the client code for an example of client-server interaction. 
+This is a proxy server herd project that uses the google maps api to propagate geo-location data received from "client" devices. It utilizes a flooding algorithm to self-update itself. You can run each server individually,or write a script to run them all at once. You can either use telnet or run the client code for an example of client-server interaction. From CS 131 UCLA.
 
 ### Example runs for generating logs given in this repo
 -----
