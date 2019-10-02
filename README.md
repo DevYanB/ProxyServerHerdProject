@@ -1,8 +1,7 @@
 ### Notes
 -----
-This is a proxy server herd that utilizes a flooding algorithm to self-update itself. You can run each server individually,
-or write a script to run them all at once. You can either use telnet or run the client code for an example of client-server
-interaction
+This is a proxy server herd project done for CS131. It utilizes a flooding algorithm to self-update itself. You can run each server individually,
+or write a script to run them all at once. You can either use telnet or run the client code for an example of client-server interaction. 
 
 ### Example runs for generating logs given in this repo
 -----
